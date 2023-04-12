@@ -25,3 +25,22 @@ Market Department Summer Intern
 * Participation in the assessment of admission files and relevant facts reports to the Spanish stock market and Alternative Equity Market (MAB)
 * Periodic information follow-up
 * Analysis of Real Estate Investment Trusts (REITs) and other companies on the verge of joining the market
+# WHAT IS MY EDUCATIONAL BACKGROUND?
+## Cloud Computing Desarrollo
+*March 2023 - July 2023 | Madrid, Spain*  
+
+Escuela de Organización Industrial (EOI)
+* Python
+* C#
+* AZ-900T01: Microsoft Azure Fundamentals
+* AZ-204: Developing Solutions for Microsoft Azure
+* PL-100 Microsoft Power Platform App Maker
+## Master´s Degree in International Business Management (MBA)
+*October 2020 – October 2021 | Madrid, Spain* 
+
+ICEX-CECO, Menéndez Pelayo International University
+## BSc Degree in Business Management and Administration
+## BSc Degree in Industrial Technology Engineering
+*September 2015 – June 2020 | Bilbao, Spain*
+
+University of Deusto
