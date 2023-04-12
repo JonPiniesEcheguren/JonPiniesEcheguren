@@ -1,6 +1,10 @@
-# WHO AM I? 
-My name is Jon Pinies, and I am a Cloud Computing Development student at Escuela de Organización Industrial (EOI). I believe my strengths lie in analytical thinking, problem-solving and teamwork. I am a native Spanish and Basque speaker, and I am fluent in English. I enjoy travelling and discovering new cultures, and my biggest hobby is doing and watching sports. 
-# WHAT IS MY PROFESSIONAL EXPERIENCE?
+# ABOUT ME 
+My name is Jon Pinies, and I am a Cloud Computing Development student at Escuela de Organización Industrial (EOI). I believe my strengths lie in analytical thinking, problem-solving and teamwork. I am a native Spanish and Basque speaker, and I am fluent in English. I enjoy travelling and discovering new cultures, and my biggest hobby is doing and watching sports.
+Certifications:
+* AZ-900T01: Microsoft Azure Fundamentals
+* AZ-204: Developing Solutions for Microsoft Azure
+* PL-100 Microsoft Power Platform App Maker
+# PROFESSIONAL EXPERIENCE
 ## Embassy of Spain in the Netherlands
 *January 2022 – December 2022 | The Hague, The Netherlands* 
 
@@ -25,7 +29,7 @@ Market Department Summer Intern
 * Participation in the assessment of admission files and relevant facts reports to the Spanish stock market and Alternative Equity Market (MAB)
 * Periodic information follow-up
 * Analysis of Real Estate Investment Trusts (REITs) and other companies on the verge of joining the market
-# WHAT IS MY EDUCATIONAL BACKGROUND?
+# EDUCATION
 ## Cloud Computing Development
 *March 2023 - July 2023 | Madrid, Spain*  
 
@@ -48,3 +52,13 @@ University of Deusto
 
 University of Deusto
 * C++
+# MORE
+## Volunteering
+### Cooperating Volunteers
+*July 2018 | Sri Lanka*
+
+English teacher
+### PSE
+*July 2017 - August 2017 | Cambodia*
+
+Teacher and instructor
