@@ -26,7 +26,7 @@ Market Department Summer Intern
 * Periodic information follow-up
 * Analysis of Real Estate Investment Trusts (REITs) and other companies on the verge of joining the market
 # WHAT IS MY EDUCATIONAL BACKGROUND?
-## Cloud Computing Desarrollo
+## Cloud Computing Development
 *March 2023 - July 2023 | Madrid, Spain*  
 
 Escuela de Organización Industrial (EOI)
@@ -40,6 +40,9 @@ Escuela de Organización Industrial (EOI)
 
 ICEX-CECO, Menéndez Pelayo International University
 ## BSc Degree in Business Management and Administration
+*September 2015 – June 2020 | Bilbao, Spain*
+
+University of Deusto
 ## BSc Degree in Industrial Technology Engineering
 *September 2015 – June 2020 | Bilbao, Spain*
 
