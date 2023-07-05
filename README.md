@@ -3,6 +3,7 @@ My name is Jon Pinies, and I am a Cloud Computing Development student at Escuela
 
 Certifications:
 * AZ-204: Developing Solutions for Microsoft Azure
+* DP-420: Microsoft Azure Cosmos DB Developer Specialty
 * PL-100 Microsoft Power Platform App Maker
 # PROFESSIONAL EXPERIENCE
 ## Embassy of Spain in the Netherlands
