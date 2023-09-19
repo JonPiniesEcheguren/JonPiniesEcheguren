@@ -37,6 +37,7 @@ Market Department Summer Intern
 The Bridge Tech
 * Data Analysis (SQL, Exploratory data, Feature engineering, Data visualization)
 * Machine Learning (Supervised and Unsupervised learning, Deep learning, Time series)
+* Data Engineering (Systems, Big Data, API, Cloud)
 * Development and Optimization (Data Science and Business, Data Science Productization, Storytelling and data products)
 ## Cloud Computing Development
 *March 2023 - July 2023 | Madrid, Spain*  
