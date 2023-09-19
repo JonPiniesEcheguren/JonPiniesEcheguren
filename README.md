@@ -31,6 +31,13 @@ Market Department Summer Intern
 * Periodic information follow-up
 * Analysis of Real Estate Investment Trusts (REITs) and other companies on the verge of joining the market
 # EDUCATION
+## Data Science
+*September 2023 - January 2024 | Bilbao, Spain
+
+The Bridge Tech
+* Data Analysis (SQL, Data Exploratory, Feature engineering, Data visualization)
+* Machine Learning (Supervised and Unsupervised learning, Deep learning, Time series)
+* Development and Optimization (Data Science and Business, Data Science Productization, Storytelling and data products)
 ## Cloud Computing Development
 *March 2023 - July 2023 | Madrid, Spain*  
 
