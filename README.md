@@ -35,7 +35,7 @@ Market Department Summer Intern
 *September 2023 - January 2024 | Bilbao, Spain*
 
 The Bridge Tech
-* Data Analysis (SQL, Data Exploratory, Feature engineering, Data visualization)
+* Data Analysis (SQL, Exploratory data, Feature engineering, Data visualization)
 * Machine Learning (Supervised and Unsupervised learning, Deep learning, Time series)
 * Development and Optimization (Data Science and Business, Data Science Productization, Storytelling and data products)
 ## Cloud Computing Development
