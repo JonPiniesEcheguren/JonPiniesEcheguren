@@ -1,5 +1,5 @@
 # ABOUT ME 
-My name is Jon Pinies, and I am a Cloud Computing Development student at Escuela de Organización Industrial (EOI). I believe my strengths lie in analytical thinking, problem-solving and teamwork. I am a native Spanish and Basque speaker, and I am fluent in English. 
+My name is Jon Pinies, and I am a Data Science student at The Bridge Digital Talent Accelerator. I believe my strengths lie in analytical thinking, problem-solving and teamwork. I am a native Spanish and Basque speaker, and I am fluent in English. 
 
 Certifications:
 * AZ-204: Developing Solutions for Microsoft Azure
